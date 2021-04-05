@@ -1,7 +1,7 @@
-# PDF文件处理工具
+# PDF Files Processing Tools
 
-## 功能
-   - 多个文件合并
+## Functions
+   - Combine multiple pdf files
    ```
    python pdf_files_merge.py
    ```
